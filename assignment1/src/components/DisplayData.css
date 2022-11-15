@@ -1,0 +1,13 @@
+.userList{
+    width: 30%;
+    height: auto;
+    color: white;
+    background-color: slategray;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    padding: .25rem;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
